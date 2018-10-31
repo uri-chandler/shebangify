@@ -1,5 +1,5 @@
 {
-  "name": "shebangify",
+  "name": "@ujc/shebangify",
   "version": "1.0.0",
   "description": "A small utility to add a shebang, to be used when creating command-line apps with TypeScript and NodeJS",
   "main": "dist/index.js",
@@ -44,5 +44,10 @@
       "text"
     ]
   },
+  
+  "publishConfig": {
+    "access": "public"
+  },
+
   "dependencies": {}
 }
