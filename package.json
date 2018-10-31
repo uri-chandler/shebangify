@@ -44,10 +44,8 @@
       "text"
     ]
   },
-  
   "publishConfig": {
     "access": "public"
   },
-
   "dependencies": {}
 }
